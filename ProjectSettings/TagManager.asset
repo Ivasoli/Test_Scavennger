@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fish
+    uniqueID: 766094519
+    locked: 0
+  - name: Descent
+    uniqueID: 864372317
+    locked: 0
+  - name: Ice
+    uniqueID: 1900672677
+    locked: 0
+  - name: Boat
+    uniqueID: 30631719
+    locked: 0
+  - name: Tree
+    uniqueID: 2855265053
+    locked: 0
+  - name: Tree2
+    uniqueID: 1622097179
+    locked: 0
+  - name: Foliage
+    uniqueID: 966593029
+    locked: 0
+  - name: Small tree
+    uniqueID: 819009429
+    locked: 0
+  - name: Snowman
+    uniqueID: 129329047
+    locked: 0
+  - name: SnowPaw
+    uniqueID: 3612665691
+    locked: 0
+  - name: Left house
+    uniqueID: 1169002423
+    locked: 0
+  - name: DeerM1
+    uniqueID: 3201430143
+    locked: 0
+  - name: Floor
+    uniqueID: 186384917
+    locked: 0
+  - name: Fence
+    uniqueID: 3292987285
+    locked: 0
+  - name: Walls
+    uniqueID: 3320515553
+    locked: 0
+  - name: Door
+    uniqueID: 4193854163
+    locked: 0
+  - name: Window
+    uniqueID: 788906529
+    locked: 0
+  - name: Roof
+    uniqueID: 3201550329
+    locked: 0
+  - name: Tower
+    uniqueID: 2768307761
+    locked: 0
+  - name: Second floor
+    uniqueID: 2030664303
+    locked: 0
+  - name: SquirrelM
+    uniqueID: 973363897
+    locked: 0
+  - name: Bench
+    uniqueID: 2363990353
+    locked: 0
+  - name: DeerW2
+    uniqueID: 2480534631
+    locked: 0
+  - name: Decor
+    uniqueID: 215881843
+    locked: 0
+  - name: RassoonM2
+    uniqueID: 3754469779
+    locked: 0
+  - name: Foliage2
+    uniqueID: 648319779
+    locked: 0
+  - name: Northern lights
+    uniqueID: 802093847
+    locked: 0
