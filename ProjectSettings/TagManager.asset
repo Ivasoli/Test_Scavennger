@@ -68,9 +68,6 @@ TagManager:
   - name: Snowman
     uniqueID: 129329047
     locked: 0
-  - name: SnowPaw
-    uniqueID: 3612665691
-    locked: 0
   - name: Left house
     uniqueID: 1169002423
     locked: 0
@@ -99,6 +96,9 @@ TagManager:
     uniqueID: 2768307761
     locked: 0
   - name: Second floor
+    uniqueID: 4291681075
+    locked: 0
+  - name: Second floor
     uniqueID: 2030664303
     locked: 0
   - name: SquirrelM
@@ -110,7 +110,7 @@ TagManager:
   - name: DeerW2
     uniqueID: 2480534631
     locked: 0
-  - name: Decor
+  - name: Outdoor decor
     uniqueID: 215881843
     locked: 0
   - name: RassoonM2
